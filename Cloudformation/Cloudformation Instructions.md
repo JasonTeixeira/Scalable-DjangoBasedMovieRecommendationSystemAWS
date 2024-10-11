@@ -24,7 +24,7 @@ Resources provisioned:
 ## CloudFormation Template
 
 ```yaml
-AWSTemplateFormatVersion: 'Awesome Template'
+AWSTemplateFormatVersion: '2010-09-09'
 Description: CloudFormation Template for the Movie Recommendation System Infrastructure.
 
 Parameters:
