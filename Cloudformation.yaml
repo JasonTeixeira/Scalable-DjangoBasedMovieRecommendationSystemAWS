@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: Awesome CloudFormation
 Description: Deploys a VPC with public & private subnets, Route53, postgres RDS
 Metadata: 
   AWS::CloudFormation::Interface:
